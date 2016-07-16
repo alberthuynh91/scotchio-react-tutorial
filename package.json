@@ -1,0 +1,31 @@
+{
+  "name": "scotchio-react-tutorial",
+  "version": "1.0.0",
+  "description": "React tutorial from scotch.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberthuynh91/scotchio-react-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "scotch",
+    "io"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alberthuynh91/scotchio-react-tutorial/issues"
+  },
+  "homepage": "https://github.com/alberthuynh91/scotchio-react-tutorial#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-tools": "^0.13.3"
+  }
+}
